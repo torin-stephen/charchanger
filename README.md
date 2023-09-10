@@ -22,19 +22,20 @@ replacements = {
 
 ## Example
 Input:
-```text
+<span style="font-family:Papyrus; font-size:4em;">
 This is a testing file.
 It should appear identical.
 Text is rendered differently in different fonts, however.
 
 The quick brown fox jumped over the lazy dog.
-```
+</span>
+
 Output:
-```text
+<span style="font-family:Papyrus; font-size:4em;">
 Thіѕ іѕ а tеѕtіոɡ fіIе.
 It ѕhοuIԁ арреаr іԁеոtіcаI.
 Tехt іѕ rеոԁеrеԁ ԁіffеrеոtIу іո ԁіffеrеոt fοոtѕ, hοwеνеr.
 
 Thе quіck brοwո fοх јumреԁ ονеr thе Iаzу ԁοɡ.
-```
+</span>
 
